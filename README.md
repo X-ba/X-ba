@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @X-ba
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently looking to boost my abilities in analytics 
+- 👀 I’m interested in Data Analysis 
 - 💞️ I’m looking to collaborate on projects and eager to sharpen my skills
 - 📫 E-mail me: xabakgomotso3@gmail.com
 
